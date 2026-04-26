@@ -1,0 +1,4 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "amazon-bedrock/moonshotai.kimi-k2.5"
+}
