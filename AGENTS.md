@@ -71,6 +71,10 @@ The RAT supports cross-compilation for multiple platforms. Refer to ch_12 for ta
 - **trust-dns-resolver**: DNS resolution
 - **rayon**: Data parallelism (ch_02)
 
+## Tooling
+
+This project is developed using **OpenCode** as the coding assistant, powered by **OpenCode Zen free models**.
+
 ## Safety Considerations
 
 This repository contains educational offensive security code. All code is for learning purposes as described in the book. Review code carefully before execution and only use in authorized environments.
